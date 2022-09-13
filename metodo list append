@@ -1,0 +1,4 @@
+        ### Método facilitador para criar uma lista vazia [] caso não tenha a informação na minha variavel group_driver
+        # group_driver = {}
+        # for output in res:
+        #     group_driver.setdefault(output['emp_code'], []).append(output)
